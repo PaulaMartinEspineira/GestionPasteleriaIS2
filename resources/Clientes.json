@@ -1,0 +1,29 @@
+{
+   "clientes": [
+      {
+         "apellidos": "Messi Cuccittini",
+         "correo": "messi@gmail.com",
+         "id": 0,
+         "nombre": "Lionel Andrés",
+         "DNI": "341324829B",
+         "activo": true
+      },
+      {
+         "apellidos": "Alfrédez Gil",
+         "correo": "alfr@hotmail.es",
+         "id": 1,
+         "nombre": "Alfredo",
+         "DNI": "455312554H",
+         "activo": false
+      },
+      {
+         "apellidos": "Ramos Ramírez",
+         "correo": "rararami@terra.es",
+         "id": 2,
+         "nombre": "Ramiro",
+         "DNI": "343451081G",
+         "activo": true
+      }
+   ],
+   "next_id": 3
+}

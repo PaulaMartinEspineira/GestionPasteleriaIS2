@@ -1,0 +1,181 @@
+{
+   "empleados": [
+      {
+         "apellidos": "Fernández",
+         "numTelefono": "657890987",
+         "numVentas": 1,
+         "direccion": "ramiro de maeztu",
+         "id": 0,
+         "nombre": "Maria",
+         "DNI": "45670890X",
+         "email": "mariafernandez@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Sánchez",
+         "numTelefono": "678435124",
+         "numVentas": 0,
+         "direccion": "Príncipe de Vergara,24",
+         "id": 1,
+         "nombre": "Fernando",
+         "DNI": "45679897L",
+         "email": "fersanchez@ucm.es",
+         "activo": false
+      },
+      {
+         "apellidos": "López",
+         "numTelefono": "675123456",
+         "numVentas": 2,
+         "direccion": "Gran Vía,34",
+         "id": 2,
+         "nombre": "Laura",
+         "DNI": "46780987N",
+         "email": "laulopez@gmail.com",
+         "activo": true
+      },
+      {
+         "apellidos": "Hernández",
+         "numTelefono": "675432789",
+         "numVentas": 1,
+         "direccion": "Francisco Silvela, 45",
+         "id": 3,
+         "nombre": "45679897L",
+         "DNI": "45123789X",
+         "email": "estherfer@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Fuentes",
+         "numTelefono": "654233167",
+         "numVentas": 0,
+         "direccion": "Serrano,45",
+         "id": 4,
+         "nombre": "Mario",
+         "DNI": "45678908K",
+         "email": "mariofuentes@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "García",
+         "numTelefono": "678909890",
+         "numVentas": 0,
+         "direccion": "Fuencarral,78",
+         "id": 5,
+         "nombre": "Daniel",
+         "DNI": "45678456K",
+         "email": "danigarcia@hotmail.com",
+         "activo": true
+      },
+      {
+         "apellidos": "de las Heras",
+         "numTelefono": "654325678",
+         "numVentas": 2,
+         "direccion": "Ramiro de Maeztu,4",
+         "id": 6,
+         "nombre": "Macarena",
+         "DNI": "42567890K",
+         "email": "macadelasheras@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Montes",
+         "numTelefono": "678900989",
+         "numVentas": 1,
+         "direccion": "Garcia Morato,5",
+         "id": 7,
+         "nombre": "Gabriela",
+         "DNI": "45324564G",
+         "email": "gabrimontes@ucm.es",
+         "activo": false
+      },
+      {
+         "apellidos": "Pérez",
+         "numTelefono": "722456321",
+         "numVentas": 1,
+         "direccion": "Profesor Aranguren,20",
+         "id": 8,
+         "nombre": "Sergio",
+         "DNI": "45678909S",
+         "email": "sergioperez@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Martinez",
+         "numTelefono": "678543457",
+         "numVentas": 1,
+         "direccion": "Cuatro Caminos,46",
+         "id": 9,
+         "nombre": "Marcos",
+         "DNI": "45678987J",
+         "email": "mmartinez@gmail.com",
+         "activo": true
+      },
+      {
+         "apellidos": "Chacón",
+         "numTelefono": "678999654",
+         "numVentas": 0,
+         "direccion": "Avenida de la Reina Victoria,34",
+         "id": 10,
+         "nombre": "Samuel",
+         "DNI": "45333245H",
+         "email": "samuchacon@gmail.com",
+         "activo": true
+      },
+      {
+         "apellidos": "Fraile",
+         "numTelefono": "677543123",
+         "numVentas": 1,
+         "direccion": "Lagasca 23",
+         "id": 11,
+         "nombre": "Martina",
+         "DNI": "45123321J",
+         "email": "martinafraile@gmail.com",
+         "activo": true
+      },
+      {
+         "apellidos": "Suárez",
+         "numTelefono": "654456765",
+         "numVentas": 1,
+         "direccion": "Gran Vía,87",
+         "id": 12,
+         "nombre": "Manuel",
+         "DNI": "43213456H",
+         "email": "manusuarez@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Blanco",
+         "numTelefono": "656432124",
+         "numVentas": 3,
+         "direccion": "Beatriz de Bobadilla,2",
+         "id": 13,
+         "nombre": "Vega",
+         "DNI": "45324564B",
+         "email": "vblanco@gmail.com",
+         "activo": false
+      },
+      {
+         "apellidos": "Campos",
+         "numTelefono": "657890987",
+         "numVentas": 1,
+         "direccion": "Fernández de los Ríos,56",
+         "id": 14,
+         "nombre": "Rafael",
+         "DNI": "45678987K",
+         "email": "rafacampos@ucm.es",
+         "activo": true
+      },
+      {
+         "apellidos": "Martinez",
+         "numTelefono": "654345123",
+         "numVentas": 0,
+         "direccion": "cuatro caminos,23",
+         "id": 15,
+         "nombre": "Laura",
+         "DNI": "45670897G",
+         "email": "laumart@ucm.es",
+         "activo": false
+      }
+   ],
+   "next_id": 16
+}

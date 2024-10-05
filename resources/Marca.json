@@ -1,0 +1,41 @@
+{
+   "Marcas": [
+      {
+         "Nombre": "Nespresso",
+         "Correo": "compras@nespresso.com",
+         "Activo": true,
+         "Id": 0
+      },
+      {
+         "Nombre": "Coca Cola",
+         "Correo": "cc@cocacola.es",
+         "Activo": true,
+         "Id": 1
+      },
+      {
+         "Nombre": "Bimbo",
+         "Correo": "compras@bimbo.es",
+         "Activo": true,
+         "Id": 2
+      },
+      {
+         "Nombre": "Pascual",
+         "Correo": "leche@pascual.es",
+         "Activo": true,
+         "Id": 3
+      },
+      {
+         "Nombre": "Cuetara",
+         "Correo": "cue@tara.es",
+         "Activo": true,
+         "Id": 4
+      },
+      {
+         "Nombre": "Codan",
+         "Correo": "bolleria@codan.es",
+         "Activo": true,
+         "Id": 5
+      }
+   ],
+   "next_id": 6
+}

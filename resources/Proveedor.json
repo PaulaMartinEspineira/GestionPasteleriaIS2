@@ -1,0 +1,29 @@
+{
+   "Proveedores": [
+      {
+         "Nombre": "Miguel López",
+         "Correo": "mlopez@proveedor.com",
+         "Activo": true,
+         "Telefono": 678432901,
+         "Codigo postal": 29803,
+         "Id": 0
+      },
+      {
+         "Nombre": "AlAndalus Productos",
+         "Correo": "admin@alandalus.es",
+         "Activo": true,
+         "Telefono": 722654893,
+         "Codigo postal": 18003,
+         "Id": 1
+      },
+      {
+         "Nombre": "Velton Spain",
+         "Correo": "velton@productos.es",
+         "Activo": true,
+         "Telefono": 958667452,
+         "Codigo postal": 24002,
+         "Id": 2
+      }
+   ],
+   "next_id": 3
+}

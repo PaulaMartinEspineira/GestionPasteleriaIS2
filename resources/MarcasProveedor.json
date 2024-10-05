@@ -1,0 +1,47 @@
+{
+   "ListaMarcasProveedor": [
+      {
+         "Nombre Proveedor": "Miguel López",
+         "Activo": true,
+         "Nombre Marca": "Coca Cola",
+         "Id": 0
+      },
+      {
+         "Nombre Proveedor": "Miguel López",
+         "Activo": true,
+         "Nombre Marca": "Bimbo",
+         "Id": 1
+      },
+      {
+         "Nombre Proveedor": "AlAndalus Productos",
+         "Activo": true,
+         "Nombre Marca": "Bimbo",
+         "Id": 2
+      },
+      {
+         "Nombre Proveedor": "AlAndalus Productos",
+         "Activo": false,
+         "Nombre Marca": "Codan",
+         "Id": 3
+      },
+      {
+         "Nombre Proveedor": "Velton Spain",
+         "Activo": false,
+         "Nombre Marca": "Codan",
+         "Id": 4
+      },
+      {
+         "Nombre Proveedor": "Velton Spain",
+         "Activo": true,
+         "Nombre Marca": "Coca Cola",
+         "Id": 5
+      },
+      {
+         "Nombre Proveedor": "Velton Spain",
+         "Activo": true,
+         "Nombre Marca": "Bimbo",
+         "Id": 6
+      }
+   ],
+   "next_id": 7
+}

@@ -1,0 +1,62 @@
+{
+   "productos": [
+      {
+         "precio": 2.15,
+         "tipo": "Bebida",
+         "tamaño": "mediano",
+         "marcaId": 0,
+         "alergenos": "leche",
+         "id": 0,
+         "stock": 9,
+         "nombre": "LecheEnteraNespresso",
+         "activo": true
+      },
+      {
+         "precio": 4,
+         "tipo": "Dulce",
+         "marcaId": 1,
+         "relleno": "chocolate",
+         "alergenos": "chocolate",
+         "id": 1,
+         "stock": 26,
+         "nombre": "DonettesDeRayas",
+         "activo": false
+      },
+      {
+         "precio": 3.5,
+         "tipo": "Dulce",
+         "marcaId": 2,
+         "relleno": "nocilla",
+         "alergenos": "chocolate, avellanas",
+         "id": 2,
+         "stock": 12,
+         "nombre": "DonutsNocilla",
+         "activo": true
+      },
+      {
+         "precio": 3.7,
+         "tipo": "Pan",
+         "marcaId": 2,
+         "integral": false,
+         "alergenos": "gluten",
+         "id": 3,
+         "stock": 9,
+         "nombre": "PanBimboSinCorteza",
+         "activo": false,
+         "sal": true
+      },
+      {
+         "precio": 3,
+         "tipo": "Pan",
+         "marcaId": 2,
+         "integral": false,
+         "alergenos": "gluten",
+         "id": 4,
+         "stock": 2,
+         "nombre": "PanBimbo",
+         "activo": true,
+         "sal": true
+      }
+   ],
+   "next_id": 5
+}

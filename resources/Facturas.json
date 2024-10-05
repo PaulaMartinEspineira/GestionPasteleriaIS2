@@ -1,0 +1,125 @@
+{
+   "ListaFacturas": [
+      {
+         "id_factura": 0,
+         "fecha": "2/2/2024",
+         "precio": 22.8,
+         "id_cliente": 0,
+         "id_vendedor": 6,
+         "activa": true
+      },
+      {
+         "id_factura": 1,
+         "fecha": "12/2/2024",
+         "precio": 20.8,
+         "id_cliente": 1,
+         "id_vendedor": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 2,
+         "fecha": "18/2/2024",
+         "precio": 22.65,
+         "id_cliente": 2,
+         "id_vendedor": 11,
+         "activa": true
+      },
+      {
+         "id_factura": 3,
+         "fecha": "28/2/2024",
+         "precio": 0,
+         "id_cliente": 1,
+         "id_vendedor": 7,
+         "activa": false
+      },
+      {
+         "id_factura": 4,
+         "fecha": "3/3/2024",
+         "precio": 17,
+         "id_cliente": 1,
+         "id_vendedor": 9,
+         "activa": true
+      },
+      {
+         "id_factura": 5,
+         "fecha": "6/3/2024",
+         "precio": 7.4,
+         "id_cliente": 1,
+         "id_vendedor": 12,
+         "activa": true
+      },
+      {
+         "id_factura": 6,
+         "fecha": "18/3/2024",
+         "precio": 38.2,
+         "id_cliente": 0,
+         "id_vendedor": 13,
+         "activa": true
+      },
+      {
+         "id_factura": 7,
+         "fecha": "23/3/2024",
+         "precio": 26,
+         "id_cliente": 1,
+         "id_vendedor": 14,
+         "activa": true
+      },
+      {
+         "id_factura": 8,
+         "fecha": "31/3/2024",
+         "precio": 0,
+         "id_cliente": 1,
+         "id_vendedor": 8,
+         "activa": false
+      },
+      {
+         "id_factura": 9,
+         "fecha": "2/4/2024",
+         "precio": 61.3,
+         "id_cliente": 2,
+         "id_vendedor": 13,
+         "activa": true
+      },
+      {
+         "id_factura": 10,
+         "fecha": "9/4/2024",
+         "precio": 23.4,
+         "id_cliente": 2,
+         "id_vendedor": 13,
+         "activa": true
+      },
+      {
+         "id_factura": 11,
+         "fecha": "10/4/2024",
+         "precio": 42,
+         "id_cliente": 1,
+         "id_vendedor": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 12,
+         "fecha": "26/4/2024",
+         "precio": 24.95,
+         "id_cliente": 2,
+         "id_vendedor": 6,
+         "activa": true
+      },
+      {
+         "id_factura": 13,
+         "fecha": "30/4/2024",
+         "precio": 0,
+         "id_cliente": 0,
+         "id_vendedor": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 14,
+         "fecha": "1/5/2024",
+         "precio": 13.45,
+         "id_cliente": 0,
+         "id_vendedor": 3,
+         "activa": true
+      }
+   ],
+   "next_id": 15
+}

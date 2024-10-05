@@ -1,0 +1,253 @@
+{
+   "ListaLineasFacturas": [
+      {
+         "id_factura": 0,
+         "precio": 4.3,
+         "id_linea": 0,
+         "id_producto": 0,
+         "cantidad": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 0,
+         "precio": 18.5,
+         "id_linea": 1,
+         "id_producto": 3,
+         "cantidad": 5,
+         "activa": true
+      },
+      {
+         "id_factura": 1,
+         "precio": 14.8,
+         "id_linea": 2,
+         "id_producto": 3,
+         "cantidad": 4,
+         "activa": true
+      },
+      {
+         "id_factura": 1,
+         "precio": 6,
+         "id_linea": 3,
+         "id_producto": 4,
+         "cantidad": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 2,
+         "precio": 2.15,
+         "id_linea": 4,
+         "id_producto": 0,
+         "cantidad": 1,
+         "activa": true
+      },
+      {
+         "id_factura": 2,
+         "precio": 17.5,
+         "id_linea": 5,
+         "id_producto": 2,
+         "cantidad": 5,
+         "activa": true
+      },
+      {
+         "id_factura": 2,
+         "precio": 3,
+         "id_linea": 6,
+         "id_producto": 4,
+         "cantidad": 1,
+         "activa": true
+      },
+      {
+         "id_factura": 3,
+         "precio": 0,
+         "id_linea": 7,
+         "id_producto": 3,
+         "cantidad": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 4,
+         "precio": 9,
+         "id_linea": 8,
+         "id_producto": 4,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 4,
+         "precio": 8,
+         "id_linea": 9,
+         "id_producto": 1,
+         "cantidad": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 5,
+         "precio": 7.4,
+         "id_linea": 10,
+         "id_producto": 3,
+         "cantidad": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 5,
+         "precio": 0,
+         "id_linea": 11,
+         "id_producto": 4,
+         "cantidad": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 6,
+         "precio": 21,
+         "id_linea": 12,
+         "id_producto": 2,
+         "cantidad": 6,
+         "activa": true
+      },
+      {
+         "id_factura": 6,
+         "precio": 17.2,
+         "id_linea": 13,
+         "id_producto": 0,
+         "cantidad": 8,
+         "activa": true
+      },
+      {
+         "id_factura": 7,
+         "precio": 14,
+         "id_linea": 14,
+         "id_producto": 2,
+         "cantidad": 4,
+         "activa": true
+      },
+      {
+         "id_factura": 7,
+         "precio": 12,
+         "id_linea": 15,
+         "id_producto": 1,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 8,
+         "precio": 0,
+         "id_linea": 16,
+         "id_producto": 2,
+         "cantidad": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 8,
+         "precio": 0,
+         "id_linea": 17,
+         "id_producto": 0,
+         "cantidad": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 9,
+         "precio": 4.3,
+         "id_linea": 18,
+         "id_producto": 0,
+         "cantidad": 2,
+         "activa": true
+      },
+      {
+         "id_factura": 9,
+         "precio": 4,
+         "id_linea": 19,
+         "id_producto": 1,
+         "cantidad": 1,
+         "activa": true
+      },
+      {
+         "id_factura": 9,
+         "precio": 10.5,
+         "id_linea": 20,
+         "id_producto": 2,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 9,
+         "precio": 18.5,
+         "id_linea": 21,
+         "id_producto": 3,
+         "cantidad": 5,
+         "activa": true
+      },
+      {
+         "id_factura": 9,
+         "precio": 24,
+         "id_linea": 22,
+         "id_producto": 4,
+         "cantidad": 8,
+         "activa": true
+      },
+      {
+         "id_factura": 10,
+         "precio": 12.9,
+         "id_linea": 23,
+         "id_producto": 0,
+         "cantidad": 6,
+         "activa": true
+      },
+      {
+         "id_factura": 10,
+         "precio": 10.5,
+         "id_linea": 24,
+         "id_producto": 2,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 11,
+         "precio": 42,
+         "id_linea": 25,
+         "id_producto": 4,
+         "cantidad": 14,
+         "activa": true
+      },
+      {
+         "id_factura": 12,
+         "precio": 6.45,
+         "id_linea": 26,
+         "id_producto": 0,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 12,
+         "precio": 18.5,
+         "id_linea": 27,
+         "id_producto": 3,
+         "cantidad": 5,
+         "activa": true
+      },
+      {
+         "id_factura": 13,
+         "precio": 0,
+         "id_linea": 28,
+         "id_producto": 0,
+         "cantidad": 0,
+         "activa": false
+      },
+      {
+         "id_factura": 14,
+         "precio": 6.45,
+         "id_linea": 29,
+         "id_producto": 0,
+         "cantidad": 3,
+         "activa": true
+      },
+      {
+         "id_factura": 14,
+         "precio": 7,
+         "id_linea": 30,
+         "id_producto": 2,
+         "cantidad": 2,
+         "activa": true
+      }
+   ],
+   "next_id": 31
+}
